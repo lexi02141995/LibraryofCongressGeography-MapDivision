@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GIS Services at the Library of Congress</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+
+        a {
+            color: #1a73e8;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>GIS Services in the Library of Congress Geography & Map Division</h1>
+
+    <!-- INTRODUCTION -->
+    <section>
+        <h2>Introduction</h2>
+        <p>
+An evaluation of geospatial information services in the Library of Congress Geography & Map Division, focusing on system infrastructure, usability, challenges, and ethical considerations. This project examines how the division functions as a large-scale geospatial information system and how effectively it supports users within both public and research contexts.
+</p>
+    </section>
+
+    <!-- ORGANIZATION OVERVIEW -->
+    <section>
+        <h2>Organization Overview</h2>
+        <p><strong>Mission:</strong>The Geography and Map Division (G&M) of the Library of Congress provides cartographic and geographic information for all parts of the world to Congress, federal agencies, state and local governments, the scholarly community, and the general public. Staff, including reference librarians, specialists, and technicians, connect users to one of the largest cartographic collections in the world.</p>
+        <p><strong>Users:</strong> Staff, librarians, specialists, technicians, academic researchers, and the general public. </p>
+        <p><strong>Services:</strong> The division provides onsite reference and scanning services in the map and atlas reading room, supports geospatial inquiries from Congress, and offers online reference services for remote users. It also provides access to digital collections, research guides, and geospatial tools. </p>
+
+        <p>
+            Visit the Geography & Map Division:
+            <a href="https://www.loc.gov/rr/geogmap/">Library of Congress Geography & Map Division</a>
+        </p>
+    </section>
+
+    <!-- SYSTEM DESCRIPTION -->
+    <section>
+        <h2>GIS Information System</h2>
+
+        <h3>Inputs</h3>
+        <p> The system draws from extensive cartographic and geospatial collections, including the Sanborn map collection, county land ownership maps, fire insurance maps, panoramic maps, and materials documenting European global expansion. These collections represent both historical and modern geographic data sources. </p>
+
+        <h3>Processing</h3>
+        <p> These materials are processed through digitization, metadata creation, and cataloging systems. Maps are scanned, described, and organized into searchable formats. In some cases, geospatial technologies are used to enhance access, such as georeferencing or integration into digital platforms. </p>
+
+        <h3>Outputs</h3>
+        <p>Processed materials are made available through digital map collections, research guides, and finding aids. These outputs allow users to locate, interpret, and use geographic information for research and analysis.</p>
+
+        <h3>Interface (HCI)</h3>
+        <p>The primary interface is the Library of Congress website, which provides access to collections through search tools, digital portals, and navigation systems. Additional interfaces include the Geography & Map Division blog and the Geospatial Application Hub, which offer examples of GIS use, educational content, and access to interactive tools.</p>
+
+<p>
+Explore the Geospatial Application Hub:
+<a href="https://guides.loc.gov/geospatial-application-hub">Geospatial Application Hub</a>
+</p>
+
+<p>
+Read GIS-related blog content:
+<a href="https://blogs.loc.gov/maps/">Library of Congress Maps & GIS Blog</a>
+</p>
+
+        <img src="IMAGE_FILE_NAME.png" alt="Example of LoC Map Interface">
+        <p><em>Figure 1: Example of Library of Congress map interface.</em></p>
+    </section>
+
+    <!-- SYSTEM EVALUATION -->
+    <section>
+        <h2>System Evaluation</h2>
+
+        <h3>Usability</h3>
+        <p> The system is relatively straightforward when accessed through the Geography & Map Division page; however, its effectiveness depends on the user’s familiarity with navigating large digital collections. </p>
+
+        <h3>Accessibility</h3>
+        <p>While the system appears usable for individuals familiar with research tools, it may present challenges for users without prior experience in navigating large digital collections or working with geospatial data.</p>
+
+        <h3>User Experience</h3>
+        <p>The system is designed to support a wide range of users, from the general public to professional researchers. However, the depth and scale of the collections suggest that more experienced users may benefit most from the available tools. </p>
+    </section>
+
+    <!-- CHALLENGES -->
+    <section>
+        <h2>Challenges & Limitations</h2>
+        <ul>
+            <li>The system includes multiple platforms (collections, guides, application hub, blog), which can fragment the user experience and make navigation less intuitive.</li>
+            <li>The size of the Library of Congress collections can make navigation and discovery difficult, particularly for new users.</li>
+            <li>Working with geospatial data and tools often requires prior knowledge, which may limit accessibility for general users.</li>
+        </ul>
+    </section>
+
+    <!-- ETHICS -->
+    <section>
+        <h2>Ethical Considerations</h2>
+
+        <p><strong>Privacy:</strong> Geospatial data can include location-specific information that may reveal sensitive details, especially when combined with other datasets. </p>
+
+        <p><strong>Bias:</strong> Historical maps may reflect outdated perspectives, including colonial or incomplete representations of geographic spaces.</p>
+
+        <p><strong>Data Use:</strong> Without proper context, users may misinterpret spatial data or draw inaccurate conclusions from maps. </p>
+    </section>
+	
+	<p>These considerations highlight the role of libraries not only as providers of geospatial data, but also as educators responsible for guiding users in its responsible and informed use.</p>
+
+    <!-- RECOMMENDATIONS -->
+    <section>
+        <h2>Recommendations</h2>
+        <ul>
+            <li> Improve user onboarding through tutorials or guided navigation tools </li>
+            <li>Expand user education through GIS tutorials and example-based guides</li>
+            <li> Simplify or unify access across multiple platforms </li>
+            <li> Enhance metadata and search tools to improve discoverability </li>
+        </ul>
+    </section>
+
+    <!-- CONCLUSION -->
+    <section>
+        <h2>Conclusion</h2>
+        <p>
+            The Library of Congress Geography and Map Division demonstrates how geospatial services can function as a large-scale information system within a library setting. Through extensive collections, digital platforms, and user support services, the division provides access to a wide range of spatial information for both specialized researchers and the general public.
+
+At the same time, this case study highlights the challenges associated with managing and delivering geospatial information at scale. Issues related to system complexity, user accessibility, and the need for specialized knowledge illustrate that providing access does not always equate to ease of use. Additionally, ethical considerations such as data privacy, bias in historical maps, and responsible interpretation remain important factors in supporting GIS services.
+
+Overall, the Geography and Map Division reflects both the potential and limitations of GIS as a library information service. As geospatial technologies continue to evolve, libraries will play an increasingly important role in supporting access, interpretation, and responsible use of spatial data.
+        </p>
+    </section>
+
+    <!-- REFERENCES -->
+    <section>
+        <h2>References</h2>
+        <ul>
+    <li>Library of Congress. (n.d.). Geography and Map Division. https://www.loc.gov/rr/geogmap/</li>
+    <li>Library of Congress. (n.d.). Map collections. https://www.loc.gov/maps/</li>
+    <li>Library of Congress. (n.d.). Maps & GIS Blog. https://blogs.loc.gov/maps/</li>
+</ul>
+    </section>
+
+</body>
+</html>
